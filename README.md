@@ -13,7 +13,8 @@ This is my personal portfolio website designed to showcase my skills, projects, 
 - Skills showcase
 - Project gallery
 - Contact section
-- Smooth navigation and interactive UI
+- Smooth navigation
+-  interactive UI
 
 ## Technologies Used
 
