@@ -4,7 +4,7 @@
 
 ## Overview
 
-This is my personal portfolio website designed to showcase my skills, projects, and achievements as a developer. It serves as a digital representation of my journey, highlighting my technical skills, projects, and interests through a clean and responsive interface.
+This is my personal portfolio website designed to showcase my skills, projects, and achievements as a developer. It serves as a digital representation of my journey, highlighting my technical skills, projects, my goals and interests through a clean and responsive interface.
 
 ## Features
 
